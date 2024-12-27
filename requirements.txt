@@ -1,0 +1,18 @@
+# Used by pip to install required python packages
+# Usage: pip install -r requirements.txt
+
+Flask==1.0
+chatterbot>=0.7.1
+chatterbot-corpus>=1.2.0
+#SQLAlchemy>=1.2
+SQLAlchemy==1.2
+gunicorn==20.0.4
+
+mathparse>=0.1,<0.2
+nltk>=3.2,<4.0
+pint>=0.8.1
+python-dateutil>=2.7,<2.8
+
+spacy>=2.1,<2.2
+
+PyYAML==5.1
